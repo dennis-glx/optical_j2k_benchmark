@@ -32,6 +32,7 @@ def group_images(directory):
 directory = '/home/galaxeye/ssd/sorted_rgb'
 images = group_images(directory)
 print(f"Num Images : {len(images)}")
+
 # Access the grouped images
 for image in images:
     assert image.tif_size_bytes > 0, f"Invalid TIF size for image: {image.tif_path}"
