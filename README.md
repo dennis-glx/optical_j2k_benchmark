@@ -19,4 +19,4 @@ python3 analyse_compression
 
 As seen in this histogram, the compression ratio you get is around 2-3x for satellite imagery too.
 
-<img src="./assets/powersupply.jpg" alt="Compression Ratios" width="700"/>
+<img src="./assets/comp_ratios.png" alt="Compression Ratios" width="700"/>
